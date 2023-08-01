@@ -14,11 +14,11 @@
 
 <div align="center">
   <h3>포트폴리오</h3>
-  <a href="https://99per.netlify.app">🎮99% - 당신만을 위한 게임 친구🎮</a>
+  <a href="https://99per.netlify.app">🎮99% - 당신과 딱 맞는 게임 친구🎮</a>
   <br/>
   <a href="https://co-e-commerce.netlify.app">🛒E-commerce - 나만의 쇼핑몰🛒</a>
   <br/>
-  <a href="https://co-todo-list">✏Todo list - 투두 리스트✏</a>
+  <a href="https://co-todo-list.netlify.app">✏Todo list - 투두 리스트✏</a>
 </div>
 
 <br/><br/><br/><br/><br/>
