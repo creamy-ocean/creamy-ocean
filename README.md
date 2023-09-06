@@ -12,7 +12,7 @@
   <br/>
   <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat&logo=PostCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled component-DB7093?style=flat&logo=SASS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=SASS&logoColor=white"/>
 </div>
 
 <div align="center">
