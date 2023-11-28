@@ -17,6 +17,8 @@
 
 <div align="center">
   <h3>포트폴리오</h3>
+  <a href="https://99per-prod.netlify.app">🎮99% - 당신과 딱 맞는 게임 친구(ver 2.0)🎮</a>
+  <br/>
   <a href="https://99per.netlify.app">🎮99% - 당신과 딱 맞는 게임 친구🎮</a>
   <br/>
   <a href="https://co-e-commerce.netlify.app">🛒E-commerce - 나만의 쇼핑몰🛒</a>
