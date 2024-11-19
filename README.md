@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8ED1FF&fontColor=FFF&height=300&section=header&text=creamy%20ocean&fontSize=80"/>
-  <h3>기술</h3>
+  <h3>Skills</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -16,10 +16,8 @@
 </div>
 
 <div align="center">
-  <h3>포트폴리오</h3>
-  <a href="https://99per-prod.netlify.app">🎮99% - 당신과 딱 맞는 게임 친구(ver 2.0)🎮</a>
-  <br/>
-  <a href="https://99per.netlify.app">🎮99% - 당신과 딱 맞는 게임 친구🎮</a>
+  <h3>Portfolio</h3>
+  <a href="https://99per-prod.netlify.app">🎮99% - 당신과 딱 맞는 게임 친구 (Perfect Game Friend Match) ver.2🎮</a>
   <br/>
   <a href="https://co-e-commerce.netlify.app">🛒E-commerce - 나만의 쇼핑몰🛒</a>
   <br/>
