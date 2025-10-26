@@ -6,9 +6,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Query&logoColor=white"/>
+  
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+  ![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)
+  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)
   <br/>
   <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat&logo=PostCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white"/>
@@ -17,11 +18,11 @@
 
 <div align="center">
   <h3>Portfolio</h3>
-  <a href="https://99per-prod.netlify.app">🎮99% - 당신과 딱 맞는 게임 친구 (Perfect Game Friend Match) ver.2🎮</a>
+  <a href="https://99per-prod.netlify.app">🎮99% - Perfect Game Friend Match🎮</a>
   <br/>
-  <a href="https://co-e-commerce.netlify.app">🛒E-commerce - 나만의 쇼핑몰🛒</a>
+  <a href="https://co-e-commerce.netlify.app">🛒E-commerce - Online Shopping Mall🛒</a>
   <br/>
-  <a href="https://co-todo-list.netlify.app">✏Todo list - 투두 리스트✏</a>
+  <a href="https://co-todo-list.netlify.app">✏TODO! - Todo List✏</a>
 </div>
 
 <br/><br/>
