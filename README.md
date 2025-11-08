@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8ED1FF&fontColor=FFF&height=300&section=header&text=creamy%20ocean&fontSize=80"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8ED1FF&fontColor=FFF&height=300&section=header&text=Creamy%20Ocean&fontSize=80"/>
   <h3>Skills</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=JavaScript&logoColor=white"/>
@@ -14,15 +14,19 @@
   <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat&logo=PostCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=SASS&logoColor=white"/>
+  <br/>
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 </div>
 
 <div align="center">
   <h3>Portfolio</h3>
-  <a href="https://99per-prod.netlify.app">🎮99% - Perfect Game Friend Match🎮</a>
+  <a href="https://github.com/creamy-ocean/99per-ver.2">🎮 99% - Perfect Game Friend Matcher 🎮</a>
   <br/>
-  <a href="https://co-e-commerce.netlify.app">🛒E-commerce - Online Shopping Mall🛒</a>
+  <a href="https://github.com/creamy-ocean/e-commerce">🛒 E-commerce - Online Shopping Mall 🛒</a>
   <br/>
-  <a href="https://co-todo-list.netlify.app">✏TODO! - Todo List✏</a>
+  <a href="https://github.com/creamy-ocean/todo-list">✏ TODO! - Todo List ✏</a>
 </div>
 
 <br/><br/>
